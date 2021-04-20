@@ -447,9 +447,9 @@ pretium ac.</p>
 
 # PERTANYAAN & TUGAS !
 ## 1. Tambahkan Layout untuk menu About
-### buat single layout yang berisi deskripsi, portofolio, dll.
+`buat single layout yang berisi deskripsi, portofolio, dll.`
 ## 2. Tambahkan Layout untuk menu Contact
-### yang berisi form isian: Nama, Email, Message, dll.
+`yang berisi form isian: Nama, Email, Message, dll.`
 # 1. Tambahkan Layout untuk menu About
 ## Membuat dokumen html dengan nama `about.html` sebagai berikut.
 ![Pertanyaan1](https://user-images.githubusercontent.com/56380838/115421837-88a67780-a226-11eb-80c4-c87f36ea0c35.png)
