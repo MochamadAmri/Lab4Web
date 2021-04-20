@@ -444,3 +444,23 @@ pretium ac.</p>
 ![Langkah 12](https://user-images.githubusercontent.com/56380838/115415224-ecc63d00-a220-11eb-954a-cfbd02ebd752.png)
 #### HASILNYA
 ![Langkah 12 1](https://user-images.githubusercontent.com/56380838/115415217-e9cb4c80-a220-11eb-8d4a-c93ab12af896.png)
+
+# PERTANYAAN & TUGAS !
+## 1. Tambahkan Layout untuk menu About
+### buat single layout yang berisi deskripsi, portofolio, dll.
+## 2. Tambahkan Layout untuk menu Contact
+### yang berisi form isian: Nama, Email, Message, dll.
+# 1. Tambahkan Layout untuk menu About
+## Membuat dokumen html dengan nama `about.html` sebagai berikut.
+![Pertanyaan1](https://user-images.githubusercontent.com/56380838/115421837-88a67780-a226-11eb-80c4-c87f36ea0c35.png)
+## Lalu di CSS nya
+![Pertanyaan1 4](https://user-images.githubusercontent.com/56380838/115422390-0e2a2780-a227-11eb-8ff8-b13e666bc4ad.png)
+## Hasil nya saat menekan menu About akan seperti ini tampilan nya
+![Pertanyaan1 2](https://user-images.githubusercontent.com/56380838/115421848-8b08d180-a226-11eb-8e52-2e097627a48b.png)
+# 2. Tambahkan Layout untuk menu Contact
+## Buat file HTML baru dengan nama kontak.html, dan buat form yang berisi: `nama`, `email`, `message`, dll
+![Pertanyaan 2 1](https://user-images.githubusercontent.com/56380838/115423880-631a6d80-a228-11eb-8af5-6fec35b4239d.png)
+## Lalu menambahkan CSS nya
+![Pertanyaan 2 2](https://user-images.githubusercontent.com/56380838/115423900-657cc780-a228-11eb-9d15-0f218fd223af.png)
+## Hasil nya setelah saya menekan menu Kontak, maka akan tampil seperti dibawah ini
+![Pertanyaan 2 3](https://user-images.githubusercontent.com/56380838/115423919-6877b800-a228-11eb-8cee-034d2c57a767.png)
